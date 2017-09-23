@@ -1,0 +1,34 @@
+<people>
+	<NPC>
+		<name>James</name>
+		<text>What Would You Like To Buy?</text>
+		<choice>
+			<One>Some Premium Cheese, Please.</One>
+			<Two>Give Me Some Of That Sour Saus.</Two>
+			<Three>Nothing, I'll Just Take It.</Three>
+			<Four>Bye</Four>
+		</choice>
+		<answer>
+			<One>That'll Be 1475 Shloopeers.</One>
+			<Two>We Don't Serve Junkies Here.</Two>
+			<Three>I Won't Be Threatened.</Three>
+			<Four>Thank You, Come Again.</Four>
+		</answer>
+	</NPC>
+	<NPC>
+		<name>Row-Bot</name>
+		<text>Do You Have A Boat?</text>
+		<choice>
+			<One>The Ting Go Skrrrrrrrrrra Bap Bap Ka Ka Ka.</One>
+			<Two>Do You Actually Row?</Two>
+			<Three>What Can You Give Me?</Three>
+			<Four>See Ya.</Four>
+		</choice>
+		<answer>
+			<One>Please Stop, You're Embarrassing Yourself.</One>
+			<Two>Yes, I do.</Two>
+			<Three>Excellent Rowing Skills.</Three>
+			<Four>CHIRP-CHIRP</Four>
+		</answer>
+	</NPC>
+</people>
